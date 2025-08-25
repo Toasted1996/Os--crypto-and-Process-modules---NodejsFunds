@@ -1,0 +1,12 @@
+{
+  "name": "nodeclass6",
+  "version": "1.0.0",
+  "description": "OS module",
+  "license": "MIT",
+  "author": "Giorthy Lopez <giorthydev@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
